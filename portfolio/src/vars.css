@@ -4,8 +4,11 @@
     --color-primary: #D6CCC2;
     --color-secondary: #D5BDAF;
     --color-dark: #463f3a;
-    --color-bg: #EDEDE9
+    --color-bg: #EDEDE9;
 
+    --color-accent: #004e89;
+    --color-acent-light: #98c1d9;
+    
     /* Font Variables */
     --font-robot: "Roboto"
 
