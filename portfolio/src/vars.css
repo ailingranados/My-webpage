@@ -1,11 +1,22 @@
 :root{
     /* Color Variables */	
-    --color-text: #b2967d;
+    /* --color-text: #b2967d;
     --color-primary: #D6CCC2;
     --color-secondary: #D5BDAF;
     --color-dark: #463f3a;
-    --color-bg: #EDEDE9;
+    --color-bg: #EDEDE9; */
+    
+    --color-text: #b2967d;
+    --color-primary: #d4e2b6;
+    --color-secondary: #a2cccb;
+    --color-dark: #539fa2;
+    --color-bg: #72b1a4;
+    --color-light: #c4dbb4;
+    --color-translucid: #FCFAF280;
+    --color-white: #FFFFFF;
 
+
+    --color-light-trans: rgba(150, 223, 211, 0.671);
     --color-accent: #004e89;
     --color-acent-light: #98c1d9;
     
