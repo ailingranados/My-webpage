@@ -6,6 +6,7 @@
     --color-dark: #463f3a;
     --color-bg: #EDEDE9; */
     
+    
     --color-text: #b2967d;
     --color-primary: #d4e2b6;
     --color-secondary: #a2cccb;
@@ -13,6 +14,8 @@
     --color-bg: #72b1a4;
     --color-light: #c4dbb4;
     --color-translucid: #FCFAF280;
+    --color-translucid-bg: #FCFAF24D;
+    --color-acent: #EFC7C8;
     --color-white: #FFFFFF;
 
 

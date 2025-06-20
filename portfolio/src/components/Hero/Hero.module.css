@@ -16,7 +16,7 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    color:var(--text-color);
+    color:var(--color-white);
     z-index: 1;
 }
 
@@ -27,8 +27,8 @@
     font-family: var(--font-roboto);
     background: linear-gradient(
         90deg,
-        #000000 50%,
-        #476f70 120%
+        #FFFFFF 90%,
+        #CB7A7B00 120%
     );
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
