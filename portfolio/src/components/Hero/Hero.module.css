@@ -38,6 +38,7 @@
     font-size: 30px;
     font-family: var(--font-roboto);
     margin-bottom: 52px;
+    text-shadow: #0000005b 0px 0px 10px;
 }
 
 .contactBtn{
@@ -49,6 +50,7 @@
     font-weight: 600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(103, 103, 103, 0.5);
+    text-shadow: #0000005b 0px 0px 10px;
 }
 
 .heroImg{

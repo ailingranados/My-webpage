@@ -4,6 +4,7 @@
     width: 100%;
     height: 8rem;
    background-color: var(--color-translucid-bg);
+   position: relative;
 }
 
 .navbar {
@@ -37,7 +38,7 @@
 
 .menuItems a {
     font-size: 25px;
-    color: var(--color-white);
+    color: var(--color-text);
     text-decoration: none;
 
 }
@@ -48,6 +49,9 @@
 }
 
 @media screen and (max-width: 830px) {
+    .back {
+        position: relative;
+    }
     .navbar {
         flex-direction: column;
         align-items: flex-start;
@@ -75,8 +79,8 @@
         align-items: center;
         gap: 13px;
         border-radius: 10px;
-        background-color: var(--color-acent-light);
-        background: linear-gradient(0deg, var(--color-bg), var(--color-secondary));
+        background-color: var(--color-text);
+        background: linear-gradient(0deg, #FFFFFF33, #FCFAF29E);
         padding: 24px 33px;
         box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
     }

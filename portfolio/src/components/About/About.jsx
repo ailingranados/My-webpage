@@ -16,21 +16,21 @@ export const About = () => {
                 
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}>
-                    <img src={GetImageUrl("nav/menu-icon.png")} alt="icon" />
+                    <img src={GetImageUrl("about/back.png")} alt="icon" />
                     <div className={styles.aboutItemtext}>
                         <h3>Frontend developer</h3>
                         <p>i'm a frontend developer</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src={GetImageUrl("nav/menu-icon.png")} alt="icon" />
+                    <img src={GetImageUrl("about/dev.png")} alt="icon" />
                     <div className={styles.aboutItemtext}>
                         <h3>Frontend developer</h3>
                         <p>i'm a frontend developer</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src={GetImageUrl("nav/menu-icon.png")} alt="icon" />
+                    <img src={GetImageUrl("about/UI.png")} alt="icon" />
                     <div className={styles.aboutItemtext}>
                         <h3>Frontend developer</h3>
                         <p>i'm a frontend developer</p>

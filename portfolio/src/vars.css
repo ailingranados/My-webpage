@@ -7,7 +7,7 @@
     --color-bg: #EDEDE9; */
     
     
-    --color-text: #b2967d;
+    --color-text: #0000005E;
     --color-primary: #d4e2b6;
     --color-secondary: #a2cccb;
     --color-dark: #539fa2;
@@ -18,12 +18,14 @@
     --color-acent: #EFC7C8;
     --color-white: #FFFFFF;
 
-
+    
     --color-light-trans: rgba(150, 223, 211, 0.671);
     --color-accent: #004e89;
     --color-acent-light: #98c1d9;
     
+    --transparente: #FCFAF2;
     /* Font Variables */
     --font-robot: "Roboto"
+
 
 }

@@ -1,26 +1,26 @@
 [
     {
         "title": "HTML",
-        "imageSrc": "skills/html.png"
+        "imageSrc": "experience/html.png"
     },
     {
         "title": "CSS",
-        "imageSrc": "skills/css.png"
+        "imageSrc": "experience/css.png"
     },
     {
         "title": "React",
-        "imageSrc": "skills/react.png"
+        "imageSrc": "experience/react.png"
     },
     {
-        "title": "Node",
-        "imageSrc": "skills/node.png"
+        "title": "JS",
+        "imageSrc": "experience/js.png"
     },
     {
         "title": "SQL",
-        "imageSrc": "skills/sql.png"
+        "imageSrc": "experience/sql.png"
     },
     {
         "title": "SQLServer",
-        "imageSrc": "skills/sqlServer.png"
+        "imageSrc": "experience/sql.png"
     }
 ]

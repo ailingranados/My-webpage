@@ -8,7 +8,7 @@
     /* position:fixed; */
     top: 0;
     left: 0;
-    background: linear-gradient(45deg, #7490BF, #A9C4D5, #EFC7C8, #DDD7E1, #DB88A4, #CC8FB1);
+    background: linear-gradient(90deg, #7490BF, #A9C4D5, #EFC7C8, #DDD7E1, #DB88A4, #CC8FB1);
     background-size: 400% 400%;
     animation: gradianteAnimation 20s ease-in-out infinite;
 }

@@ -2,9 +2,9 @@
 
 .container {
     margin-top: 76px;
-    color: var(--color-white);
-    margin-left: 10%;
-    margin-right: 10%;
+    color: var(--color-text);
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .title {
@@ -21,6 +21,6 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    gap: 15px;
+    gap: 55px;
     width: 100%;
 }
