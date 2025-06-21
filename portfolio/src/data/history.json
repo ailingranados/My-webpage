@@ -1,20 +1,29 @@
 [
     {
-        "role": "software engineer",
-        "organization": "google",
-        "startDate": "Sep, 2022",
+        "role": "General Manager",
+        "organization": "Algorithmics",
+        "startDate": "Ene, 2025",
         "endDate": "Present",
-        "experiences": ["Workeed on googlemaps", "Design"],
-        "ImageSrc": "experience/A.png"
-
+        "experiences": [
+            "Developed age-appropriate Full Stack curriculum using Python, C#, and Unity.",
+            "Led and trained instructors to ensure quality, inclusive teaching.",
+            "Managed educational software and learning platform projects.",
+            "Reviewed instructor code to enforce best practices and computational thinking.",
+            "Applied agile methods to foster early teamwork in student projects."
+        ],
+        "ImageSrc": "experience/algoritmics.png"
     },
     {
-        "role": "design engineer",
-        "organization": "google",
-        "startDate": "Sep, 2022",
+        "role": "Programming Teacher",
+        "organization": "Algorithmics",
+        "startDate": "Mar, 2024",
         "endDate": "Present",
-        "experiences": ["Workeed on googlemaps", "Design"],
-        "ImageSrc": "experience/A.png"
-
+        "experiences": [
+            "Taught programming and game development with Python, C#, and Unity for various age groups.",
+            "Created activities to build logic, creativity, and problem-solving skills.",
+            "Promoted clean code, version control, and teamwork from an early age."
+        ],
+        "ImageSrc": "experience/algoritmics.png"
     }
+    
 ]

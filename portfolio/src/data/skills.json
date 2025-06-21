@@ -15,12 +15,49 @@
         "title": "JS",
         "imageSrc": "experience/js.png"
     },
+    
+     {
+        "title": "Figma",
+        "imageSrc": "experience/figma.png"
+    },
     {
-        "title": "SQL",
-        "imageSrc": "experience/sql.png"
+        "title": "MYSQL",
+        "imageSrc": "experience/mysql.png"
     },
     {
         "title": "SQLServer",
         "imageSrc": "experience/sql.png"
+    },
+    {
+        "title": "Node.js",
+        "imageSrc": "experience/nodejs.png"
+    },
+    {
+        "title": "Aws",
+        "imageSrc": "experience/aws.png"
+    },
+     {
+        "title": "Python",
+        "imageSrc": "experience/python.png"
+    },
+    {
+        "title": "Github",
+        "imageSrc": "experience/github.png"
+    },
+    {
+        "title": "Blender",
+        "imageSrc": "experience/blender.png"
+    },
+    {
+        "title": "Maya",
+        "imageSrc": "experience/maya.png"
+    },
+    {
+        "title": "ZBrush",
+        "imageSrc": "experience/zbrush.png"
+    },
+    {
+        "title": "Unity",
+        "imageSrc": "experience/unity.png"
     }
 ]

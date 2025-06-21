@@ -1,26 +1,18 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Project Bible",
+    "imageSrc": "proyects/bible.png",
+    "description": "This is a project made to learn the basic of data base managment",
+    "skills": ["C#", "SQL", ".Net", "WinApi"],
+ 
+    "source": "https://github.com/ailingranados/Consulta-Biblia"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Let's Talk",
+    "imageSrc": "proyects/letstalk.png",
+    "description": "A project that shares reviews of movies, books, and TV shows everyone can enjoy.",
+    "skills": ["JavaScript", "HTML", "CSS", "React", "Boostrap"],
+
+    "source": "https://github.com/ailingranados/LetsTalk"
   }
 ]
