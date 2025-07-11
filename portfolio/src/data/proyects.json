@@ -8,8 +8,8 @@
     "source": "https://github.com/ailingranados/Consulta-Biblia"
   },
   {
-    "title": "Let's Talk",
-    "imageSrc": "proyects/letstalk.png",
+    "title": "A site for reviews and ratings of movies, TV shows, and books.",
+    "imageSrc": "experience/letstalk.png",
     "description": "A project that shares reviews of movies, books, and TV shows everyone can enjoy.",
     "skills": ["JavaScript", "HTML", "CSS", "React", "Boostrap"],
 

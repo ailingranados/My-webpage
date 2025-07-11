@@ -20,7 +20,7 @@ export const About = () => {
                         <img src={GetImageUrl("about/back.png")} alt="icon" />
                         <div className={styles.aboutItemtext}>
                             <h3>My Education</h3>
-                            <p>I hold a Licenciatura en Multimedia y Animación Digital
+                            <p>I hold a bachelor's degree en Multimedia y Animación Digital
                                 from the Facultad de Ciencias Físico Matemáticas at UANL.
                                 as well as Professional Certificate en SQL Server from the
                                 Facultad de Ingeniería Mecánica y Eléctrica at UANL.
