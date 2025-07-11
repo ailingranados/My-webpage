@@ -7,7 +7,9 @@ export const Hero = () => {
         <section className={styles.container}>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Ailin</h1>
-                <p className={styles.description}>I’m a Full-Stack Developer with a focus on frontend technologies and relational databases like SQL Server and MySQL</p>
+                <p className={styles.description}>I’m a Full-Stack Developer with a strong focus on backend 
+                    development using Node.js, Express, and relational databases like SQL Server and MySQL.
+                     </p>
                 <a href="mailto:ailin.granadoscn@gmail.com" className={styles.contactBtn}>Contact Me</a>
             </div>
             

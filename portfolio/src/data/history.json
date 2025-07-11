@@ -1,29 +1,41 @@
 [
     {
-        "role": "General Manager",
-        "organization": "Algorithmics",
-        "startDate": "Ene, 2025",
-        "endDate": "Present",
+        "role": "Backend Developer intern",
+        "organization": "Servicio Social",
+        "startDate": "Nov, 2024",
+        "endDate": "Jun, 2025",
         "experiences": [
-            "Developed age-appropriate Full Stack curriculum using Python, C#, and Unity.",
-            "Led and trained instructors to ensure quality, inclusive teaching.",
-            "Managed educational software and learning platform projects.",
-            "Reviewed instructor code to enforce best practices and computational thinking.",
-            "Applied agile methods to foster early teamwork in student projects."
+            "Designed and developed RESTful endpoints for managing and logging work hours in a department.",
+            "Implemented business logic, validations, and access control using JWT.",
+            "Structured projects following MVC architecture to ensure clean and scalable code."
         ],
-        "ImageSrc": "experience/algoritmics.png"
+        "ImageSrc": "experience/fcfm.png"
     },
     {
-        "role": "Programming Teacher",
+        "role": "General Manager/Programming Teacher",
         "organization": "Algorithmics",
         "startDate": "Mar, 2024",
         "endDate": "Present",
         "experiences": [
-            "Taught programming and game development with Python, C#, and Unity for various age groups.",
-            "Created activities to build logic, creativity, and problem-solving skills.",
-            "Promoted clean code, version control, and teamwork from an early age."
+            "Supervised programming best practices: clean code, meaningful comments, Git, and modular design.",
+            "Audited code with focus on logic, performance, and quality.",
+            "Taught backend programming using Python, C#, and Unity.",
+            "Designed activities to build backend skills: data handling and server-side logic.",
+            "Promoted early backend competencies: structured thinking and teamwork.",
+            "Trained and coordinated instructors to ensure effective technical teaching."
         ],
         "ImageSrc": "experience/algoritmics.png"
+    },
+    {
+        "role": "Backend Developer",
+        "organization": "Let's Talk",
+        "startDate": "Feb, 2023",
+        "endDate": "Feb, 2024",
+        "experiences": [
+            "Built RESTful APIs using Node.js and Express.",
+            "Implemented secure authentication with JWT and structured projects following MVC architecture.",
+            "Focused on creating efficient, scalable, and well-documented services and microservices."
+        ],
+        "ImageSrc": "experience/letstalk.png"
     }
-    
 ]

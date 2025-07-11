@@ -31,10 +31,15 @@ export const About = () => {
                         <img src={GetImageUrl("about/dev.png")} alt="icon" />
                         <div className={styles.aboutItemtext}>
                             <h3>Frontend developer</h3>
-                            <p>I have foundational skills in HTML, CSS, and JavaScript,
-                                enabling me to build responsive and user-friendly web pages.
-                                I am familiar with modern frontend frameworks like React and have experience working with version control systems such as Git.
-                                I focus on building responsive, user-friendly interfaces that work across devices and browsers.
+                            <p>I have foundational skills in HTML, CSS, and JavaScript, which allow me to build 
+                                responsive and user-friendly web pages. I am familiar with modern frontend frameworks
+                                like React and Angular, and have experience developing dynamic components,
+                                managing state, and handling routing in single-page applications. 
+                                I use tools like Bootstrap for rapid UI development and Vite for efficient project bundling
+                                and fast development workflows. I also work with version control systems such as Git, 
+                                and focus on creating interfaces that are responsive, accessible, and consistent across
+                                devices and browsers.
+
                             </p>
                         </div>
                     </li>
@@ -42,9 +47,12 @@ export const About = () => {
                         <img src={GetImageUrl("about/UI.png")} alt="icon" />
                         <div className={styles.aboutItemtext}>
                             <h3>Backend developer</h3>
-                            <p> I have basic knowledge of server-side programming and experience working with relational
-                                databases like SQL Server and MySQL. I understand how to create and manage APIs,
-                                handle data storage, and ensure application security.</p>
+                            <p> I have hands-on experience in server-side programming with Node.js and Express. 
+                                I’ve worked on designing and implementing RESTful APIs, managing data flow
+                                between client and server, and integrating relational databases like SQL Server
+                                 and MySQL through ORMs such as Sequelize. 
+                                 I’m also familiar with implementing authentication mechanisms (e.g., JWT), 
+                                 input validation, and securing endpoints to protect application data.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
